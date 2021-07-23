@@ -49,6 +49,7 @@ h2{
     font-size: 20px;
     display: inline-block;
     padding: 0.29em 0.25em;
+    padding-left: 0.15em;
     border-radius: 4px;
     border: none;
     outline: none;
@@ -59,7 +60,7 @@ h2{
 
 
 .btn{
-    font-size: 25px;
+    font-size: 24.7px;
     margin: 0.4em;
     padding: 4px 5px;
     border-radius: 5px;
