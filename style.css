@@ -41,14 +41,14 @@ h2{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 0.30em;
+    margin-left: 0.20em;
     margin-top: 0.8em;
 }
 
 .search-bar{
     font-size: 22px;
     display: inline-block;
-    padding: 0.29em 0.50em;
+    padding: 0.29em 0.40em;
     border-radius: 4px;
     border: none;
     outline: none;
